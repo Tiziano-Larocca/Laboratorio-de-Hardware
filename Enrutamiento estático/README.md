@@ -18,7 +18,7 @@ Primero deberemos conectar, mediante cables ethernet(RJ-45), los switches, los r
 
 Seria de la siguiente forma:
 
-![](/img/Captura%20de%20pantalla%202025-06-03%20145351.png)
+![pkt](/img/Captura%20de%20pantalla%202025-06-03%20145351.png)
 
 El cable de router a router es cruzado, pero hoy con los routers nuevos no hacen falta. De igual forma, el packet tracer pide cable cruzado.
 
@@ -175,4 +175,4 @@ Approximate round trip times in milli-seconds:
 
 Además, si una PC levanta una página web con Live Server podemos verla desde la otra máquina copiando la IP y el puerto en un navegador. Por ejemplo:
 
-![](img/image.png)
+![grupo](img/image.png)
